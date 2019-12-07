@@ -1,0 +1,26 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "32d9a6bb9d92cde964d51ba9f99bc046d12129971c76af4724155b15252eaf4c"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "convert-descriptor-to-swagger-alpha": {
+            "editable": true,
+            "git": "https://github.com/brighthive/convert_descriptor_to_swagger.git",
+            "ref": "4c4d945e7ed0f7d2daf280a233c45ae984023d72"
+        }
+    },
+    "develop": {}
+}
