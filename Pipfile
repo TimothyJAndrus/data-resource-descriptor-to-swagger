@@ -6,7 +6,9 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-convert-descriptor-to-swagger-alpha = {editable = true,git = "https://github.com/brighthive/convert_descriptor_to_swagger.git",ref = "convert"}
+convert-descriptor-to-swagger = {editable = true,git = "https://github.com/brighthive/convert_descriptor_to_swagger.git",ref = "convert"}
+openapi-spec-validator = "*"
+prance = "*"
 
 [requires]
 python_version = "3.7"
