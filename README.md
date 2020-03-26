@@ -5,7 +5,7 @@ At [BrightHive](https://brighthive.io) we use the [Data Resource API](https://gi
 
 These documents are called descriptors. This repo will convert your descriptor to an [OpenAPI Specification 3.0 file](https://swagger.io/docs/specification/about/) that thoroughly documents your API.
 
-# Instructions for using this
+# Instructions
 1. `git clone` this repo.
 
 2. Ensure all of your API and table names are plural in your descriptor.
